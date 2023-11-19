@@ -20,4 +20,4 @@ Scrum&Agile, HTML, CSS, JavaScript, React.js
 - Project Management Fundamentals, IBM SkillBuild, May 2023
 - Programming in JavaScript, Institute of IT&Business Administration, August 2019
 
-8. ### English - B2
+### English - B2
