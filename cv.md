@@ -3,6 +3,7 @@
 trostyan07@gmail.com | @Alexander_Trostyanskiy(tg)
 
 ## Summary 
+Project Manager with 2+ years of experience in managing web and mobile app development
 
 ## Skills 
 Scrum&Agile, HTML, CSS, JavaScript, React.js
